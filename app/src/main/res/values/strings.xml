@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">TestQuest</string>
+    <string name="title">
+        Steigenberger Makadi
+    </string>
+    <string name="Hotel">
+        Отель
+    </string>
+
+    <string name="hotel_place">
+        Madinat Makadi, Safaga Road, Makadi Bay, Египет
+    </string>
+
+    <string name="price">
+        от 134 673 ₽
+    </string>
+
+    <string name="tour_with_plane">
+        за тур с перелётом
+    </string>
+
+    <string name="about_hotel">
+        Об отеле
+    </string>
+
+    <string name="line">
+        3-я линия
+    </string>
+
+    <string name="wi_fi">
+        Платный wi-fi в фойе
+    </string>
+
+    <string name="airport_distance">
+        30 км до аэропорта
+    </string>
+
+    <string name="beach_distance">
+        1 км до пляжа
+    </string>
+
+    <string name="hotel_description">
+        Отель VIP-класса с собственными гольф полями. Высокий уровнь сервиса. Рекомендуем для респектабельного отдыха. Отель принимает гостей от 18 лет!
+    </string>
+
+    <string name="benefits">
+        Удобства
+    </string>
+
+    <string name="benefits_title">
+        Самое необходимое
+    </string>
+
+    <string name="btn_next">
+        К выбору номера
+    </string>
+
+    <string name="rating_title">
+        Превосходно
+    </string>
+
+    <string name="rating_number">
+        5
+    </string>
+
+    <string name="room_title">
+        Стандартный с видом на бассейн или сад
+    </string>
+
+    <string name="room_include_title">
+        Все включено
+    </string>
+
+    <string name="conditioner_include">
+        Кондиционер
+    </string>
+
+    <string name="detailed_info">
+        Подробнее о номере
+    </string>
+
+    <string name="room_price">
+        186 600 ₽
+    </string>
+
+    <string name="room_tour_length">
+        за 7 ночей с перелётом
+    </string>
+
+    <string name="choose_room">
+        Выбрать номер
+    </string>
+
+</resources>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="hotel">
+        <item name="android:hardwareAccelerated">true</item>
+        <![CDATA[<style name="title"> <item name="android:textSize">18sp</item> <item name="android:textColor">#000000</item> </style>]]>
+    </style>
+
+    <style name="title">
+        <item name="android:hardwareAccelerated">true</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <style name="hotel_place">
+        <item name="android:hardwareAccelerated">true</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#0D72FF</item>
+    </style>
+
+    <style name="price">
+        <item name="android:hardwareAccelerated">true</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <style name="tour_with_plane">
+        <item name="android:hardwareAccelerated">true</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#828796</item>
+    </style>
+
+    <style name="about_hotel">
+        <item name="android:hardwareAccelerated">true</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <style name="line">
+        <item name="android:hardwareAccelerated">true</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#828796</item>
+    </style>
+
+    <style name="wi_fi">
+        <item name="android:hardwareAccelerated">true</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#828796</item>
+    </style>
+
+    <style name="airport_distance">
+        <item name="android:hardwareAccelerated">true</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#828796</item>
+    </style>
+
+    <style name="beach_distance">
+        <item name="android:hardwareAccelerated">true</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#828796</item>
+    </style>
+
+    <style name="hotel_description">
+        <item name="android:hardwareAccelerated">true</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#E6000000</item>
+    </style>
+
+    <style name="benefits">
+        <item name="android:hardwareAccelerated">true</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#2C3035</item>
+    </style>
+
+    <style name="benefits_title">
+        <item name="android:hardwareAccelerated">true</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#828796</item>
+    </style>
+
+    <style name="btn_next">
+        <item name="android:textSize">16sp</item>
+        <item name="android:letterSpacing">0.01</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="rating_title">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#FFA800</item>
+    </style>
+
+    <style name="room_title">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <style name="room_include_title">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#828796</item>
+    </style>
+
+    <style name="conditioner_include">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#828796</item>
+    </style>
+
+    <style name="detailed_info">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#0D72FF</item>
+    </style>
+
+    <style name="room_price">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <style name="room_tour_length">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#828796</item>
+    </style>
+
+    <style name="choose_room">
+        <item name="android:textSize">16sp</item>
+        <item name="android:letterSpacing">0.01</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+
+
+</resources>
